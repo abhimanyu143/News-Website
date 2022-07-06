@@ -1,0 +1,71 @@
+{
+    "status": "ok",
+    "totalResults": 5,
+    "articles": [
+        {
+            "source": {
+                "id": "news24",
+                "name": "News24"
+            },
+            "author": "Compiled by Tashreeq Vardien",
+            "title": "'Peaceful protest' planned for Soweto Derby as fans demand stadium attendance",
+            "description": "Siyabulela Loyilane, the CEO of the National Football Supporters Association Siyabulela Loyilane, has confirmed that a protest will occur on Saturday, 5 March, outside the Orlando Stadium.",
+            "url": "https://www.news24.com/sport/Soccer/PSL/peaceful-protest-planned-for-soweto-derby-as-fans-demand-stadium-attendance-20220222",
+            "urlToImage": "https://cdn.24.co.za/files/Cms/General/d/11078/ddf0336094d94e3face1d511543757a2.jpg",
+            "publishedAt": "2022-02-22T14:20:41+00:00",
+            "content": "<ul><li>March 2022 will signal two years since South African football fans graced stadiums across the country in jubilation watching their local clubs.</li><li>Thousands of indignant fans will stage … [+2054 chars]"
+        },
+        {
+            "source": {
+                "id": "talksport",
+                "name": "TalkSport"
+            },
+            "author": "talkSPORT",
+            "title": "Football news and gossip LIVE: Chelsea system blamed for Lukaku struggles, De Gea commits future to...",
+            "description": "",
+            "url": "https://talksport.com/football/1047263/football-news-live-man-utd-arsenal-chelsea-liverpool-tottenham-man-city-premier-league-phil-foden/",
+            "urlToImage": "https://talksport.com/wp-content/uploads/sites/5/2022/02/talksport-blog-16.jpg?strip=all&quality=100&w=1200&h=800&crop=1",
+            "publishedAt": "2022-02-22T07:55:15Z",
+            "content": "talkSPORT brings you all the top football news and gossip as the Champions League round of 16 continues.\r\nWe’ll bring you live commentary of Chelsea vs Lille on Tuesday night as the Blues begin a sea… [+489 chars]"
+        },
+        {
+            "source": {
+                "id": "four-four-two",
+                "name": "FourFourTwo"
+            },
+            "author": "PA Staff",
+            "title": "Football rumours: Manchester United face competition for Mauricio Pochettino",
+            "description": "Real Madrid will reportedly battle Manchester United to sign Mauricio Pochettino, with the 49-year-old expected to leave Paris St Germain at the end of the season. United are understood to be considering the ex-Tottenham boss but the Mail says the Spanish clu…",
+            "url": "https://www.fourfourtwo.com/news/football-rumours-manchester-united-face-competition-for-mauricio-pochettino-1645512263000",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/9XBTTLqHG9sdBneLV7QW5C-1200-80.jpg",
+            "publishedAt": "2022-02-22T06:44:23Z",
+            "content": "What the papers say\r\nReal Madrid will reportedly battle Manchester United to sign Mauricio Pochettino, with the 49-year-old expected to leave Paris St Germain at the end of the season. United are und… [+1705 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-sport",
+                "name": "BBC Sport"
+            },
+            "author": "BBC Sport",
+            "title": "The 'new Havertz' taking Germany by storm",
+            "description": "A new BBC Sounds podcast is building football's most exciting young XI - the focus of the second episode is a player who has been called the new Kai Havertz in his native Germany.",
+            "url": "http://www.bbc.co.uk/sport/football/60353172",
+            "urlToImage": "https://ichef.bbci.co.uk/live-experience/cps/624/cpsprodpb/12D5B/production/_123274177_florianwirtz.jpg",
+            "publishedAt": "2022-02-22T06:37:22.3951065Z",
+            "content": "It is the stuff of management dreams - a blank cheque to build the most exciting young starting XI in world football.\r\nBut that is exactly what new BBC Sounds podcast Wunderkids is offering, in fanta… [+3635 chars]"
+        },
+        {
+            "source": {
+                "id": "espn-cric-info",
+                "name": "ESPN Cric Info"
+            },
+            "author": null,
+            "title": "Five famous people (and one cat) you didn't know have ESPNcricinfo profiles | ESPNcricinfo.com",
+            "description": "Why do a footballer, a Nobel laureate and a prime minister (no, not Imran Khan) find themselves in the ESPNcricinfo player database? | ESPNcricinfo.com",
+            "url": "http://www.espncricinfo.com/story/_/id/29102695/five-famous-people-one-cat-know-espncricinfo-profiles",
+            "urlToImage": "https://a.espncdn.com/i/cricket/cricinfo/1221668_1296x1296.gif",
+            "publishedAt": "2020-04-27T07:20:43Z",
+            "content": "Why do a cat, a footballer, a Nobel laureate and a prime minister find themselves in the ESPNcricinfo database? Here are six player profiles you wouldn't have expected we had.\r\nPeter the catThe only … [+5504 chars]"
+        }
+    ]
+}
